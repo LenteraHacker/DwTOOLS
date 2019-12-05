@@ -40,7 +40,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet MIX-Tools | lolcat
+figlet DW TOOLS | lolcat
 
 sleep 1
 
@@ -101,11 +101,11 @@ echo -e $g "   [20] Tembak Cewe(khusus jones )";
 echo -e $g "   [21] Cara Guna Tool/Tutorial Singkat_-" ;
 echo -e $g "   [ 0] Exit";
 echo ""
-echo -e $bu "Pilih Sesuai Selera Anda :)" 
-echo -e $bu "Subscribe To Channel==> otomatis Gagal <==[        ga subskreb auto mandul kere boss:v]"
+echo -e $bu "Seletch number" 
+echo -e $bu "Input Number==> DW <==[        DW]"
 read -p "====>" pil  ;
 
-figlet Mix-TooLs | lolcat
+figlet loading | lolcat
 #phs shelpis
 
 case $pil in
